@@ -4,6 +4,13 @@ body
 }
 
 
+h4{
+    background-color:#e6e6e6;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right:1em;
+    text-align:right;
+}
 h1,p{
     font-size:1.25em;
     padding-left: 3em;
