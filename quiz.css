@@ -1,0 +1,81 @@
+body 
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+h1,p{
+    font-size:1.25em;
+    padding-left: 3em;
+    padding-right:3em;
+    font-color:#d1d1e0;
+}
+
+h2{
+    font-size:2em;
+    padding-left: 3em;
+
+}
+
+p3{
+    padding-left:20em;
+}
+
+p2{
+    font-size:1em;
+}
+
+}
+.jumbotron{
+    background-color: #000;
+}
+.button 
+{
+    text-align: center;
+    float:right;
+    background-color: #fff;
+    margin: 0 10px 0 10px;
+    cursor: pointer;
+}
+.button a 
+{
+    text-decoration: none;
+    color: #555;
+    line-height: 20px;
+    padding-left: 3em;
+    padding-right:3em;
+}
+#container 
+{
+    background: url(ike.jpg);
+    background-size:100% 100%;
+    width:65%;
+    margin: 100px auto;
+    padding: 30px 10px;
+    background-color: #3f51b5;
+    color: #f2f2f2;
+    box-shadow: 0 0 10px 0 #999;
+}
+ul 
+{
+    list-style-type:none;
+    padding: 5em ;
+}
+ul li
+{
+    font-size:1.5em;
+    margin-left: 30px;
+    display: inline-block; 
+}
+#prev 
+{
+    display:none;
+}
+#start 
+{
+    display:none;
+    width: 100px;
+}
+input[type="radio"]{
+    cursor: pointer;
+}
